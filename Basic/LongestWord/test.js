@@ -29,4 +29,3 @@ test('findLongestWordWithSort gives a number', () => {
 test('findLongestWordWithSort gives a number', () => {
   expect(findLongestWordWithSort('a aa aaa aaaa aaaaa')).toEqual(5);
 });
-
